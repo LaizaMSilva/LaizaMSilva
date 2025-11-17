@@ -34,9 +34,3 @@
 <br><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaMSilva&layout=compact&theme=radical">
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="100" align="right">
-  Seu texto aparece ao lado da imagem.<br>
-  Continue escrevendo aqui.<br>
-</p>
