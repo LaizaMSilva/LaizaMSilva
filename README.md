@@ -4,8 +4,8 @@
 
 <p>
     Olá, muito prazer, eu me chamo <b>Laiza Milena da Silva</b>, sou estudante de <b><i>ciência da computação na UDESC Joinville.</i></b><br>
-    Estou iniciando meus estudos em java e futuramente iniciar em HTML, CSS e JavaScript.<br>
-    Por enquanto, o que você verá serão trabalhos da faculdade e pequenos projetos, mas logo haverão coisas mais divertidas para se ver por aqui!
+    Estou iniciando meus estudos em algumas linguagens e tecnologias, como Java, HTML, CSS e JavaScript.<br>
+    Por enquanto, o que você verá serão trabalhos da faculdade e pequenos projetos, mas logo haverão projetos mais elaborados para se ver por aqui!
 </p>
 
 <a href = "https://www.instagram.com/laiza.milenaa/">
