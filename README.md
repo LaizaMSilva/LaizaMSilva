@@ -2,11 +2,11 @@
 
 <hr>
 
-<p>Olá, muito prazer, eu me chamo <b>Laiza Milena da Silva</b>, sou estudante de <b><i>ciência da computação na UDESC Joinville.</i></b></p>
-
-<p>Estou iniciando meus estudos em java e futuramente iniciar em HTML, CSS e JavaScript.</p>
-
-<p>Por enquanto, o que você verá serão trabalhos da faculdade e pequenos projetos, mas logo haverão coisas mais divertidas para se ver por aqui!</p>
+<p>
+    Olá, muito prazer, eu me chamo <b>Laiza Milena da Silva</b>, sou estudante de <b><i>ciência da computação na UDESC Joinville.</i></b><br>
+    Estou iniciando meus estudos em java e futuramente iniciar em HTML, CSS e JavaScript.<br>
+    Por enquanto, o que você verá serão trabalhos da faculdade e pequenos projetos, mas logo haverão coisas mais divertidas para se ver por aqui!
+</p>
 
 <a href = "https://www.instagram.com/laiza.milenaa/">
     <img src="https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram" alt="instagram"/>
@@ -34,3 +34,9 @@
 <br><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaMSilva&layout=compact&theme=radical">
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="100" align="right">
+  Seu texto aparece ao lado da imagem.<br>
+  Continue escrevendo aqui.<br>
+</p>
