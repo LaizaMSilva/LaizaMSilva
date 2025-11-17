@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/8b0193c3-d939-47d9-8558-d2066cba2ce1" alt="Banner de apresentação"/>
 
-<br/>
+<hr>
 
 <p>Olá, muito prazer, eu me chamo <b>Laiza Milena da Silva</b>, sou estudante de <b><i>ciência da computação na UDESC Joinville.</i></b></p>
 
