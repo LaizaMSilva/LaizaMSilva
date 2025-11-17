@@ -21,9 +21,6 @@
 <div align = "center">
     <b>LINGUAGENS E TECNOLOGIAS EM PROCESSO DE APRENDIZAGEM</b>
     <p>────────────────────────────</p>
-</div>
-
-<div align = "center">
     <img width="50" higth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
     <img width="50" higth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
     <img width="50" higth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS"/>
@@ -33,4 +30,9 @@
 
 <br><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaMSilva&layout=compact&theme=radical">
+<div align = "center">
+    <b>ESTATÍSTICAS</b>
+    <p>────────────────────────────</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaMSilva&layout=compact&theme=radical&locale=pt-br">
+</div>
+
